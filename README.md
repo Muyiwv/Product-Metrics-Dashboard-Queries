@@ -1,5 +1,11 @@
 # E-commerce Product Metrics SQL Queries
-This repository contains a series of SQL queries designed to extract product metrics for an e-commerce product. These queries retrieve important data related to user roles, user creation dates, and vendor information. The queries are organized based on specific metrics and provide valuable insights into the performance and growth of the e-commerce platform.
+This repository contains a series of SQL queries designed to extract product metrics for a specific e-commerce system. These queries are tailored to the schema and structure of that particular system, and they serve as examples to demonstrate how SQL queries can be used to retrieve information about products from the system.
+
+The queries in this repository focus on retrieving data related to user roles, user creation dates, and vendor information. By analyzing these metrics, you can gain insights into the performance, growth, and activity of the e-commerce platform.
+
+It's important to note that these queries are not intended to be used as-is in a different system or database. They are provided to give you an idea of how SQL queries can be utilized to extract product metrics from an e-commerce system. To adapt them to your specific system, you may need to modify the table names, column names, or conditions based on your database schema.
+
+Please review and customize these queries carefully before executing them in your own environment, ensuring they align with your system's structure and requirements.
 
 # Query Descriptions
 ## Vendor Count Variance (Today vs. Yesterday)
