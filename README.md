@@ -38,7 +38,7 @@ This query counts the number of user roles with a role ID of 2 (vendor role). It
 ## Vendor Count Variance (This Week vs. Last Week)
 This query compares the number of distinct vendor IDs created during the current week and the previous week. It calculates the variance percentage between the two counts, providing insights into the week-to-week growth or decline in vendor registrations.
 
-## Instructions
+# Instructions
 To run these SQL queries and retrieve the desired product metrics:
 
 Set up a PostgreSQL database environment.
