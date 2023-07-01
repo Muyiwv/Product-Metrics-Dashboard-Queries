@@ -1,4 +1,4 @@
-# Multi-Vendor E-commerce Product Metrics SQL Queries
+# Multi-vendor E-commerce Product Metrics SQL Queries
 This repository contains a series of SQL queries designed to extract product metrics for a specific e-commerce system. These queries are tailored to the schema and structure of that particular system, and they serve as examples to demonstrate how SQL queries can be used to retrieve information about products from the system.
 
 The queries in this repository focus on retrieving data related to user roles, user creation dates, and vendor information. By analyzing these metrics, you can gain insights into the performance, growth, and activity of the e-commerce platform.
