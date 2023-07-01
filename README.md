@@ -1,1 +1,1 @@
-# Product-Metrics-Dashboard-Queries
+# Product-Metric-Queries
